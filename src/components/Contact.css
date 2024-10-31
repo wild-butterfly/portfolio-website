@@ -1,0 +1,30 @@
+body, html {
+  height: 100%; /* Ensure the body and html take up the full height */
+  margin: 0; /* Remove default margin */
+}
+
+.contact-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  min-height: 100vh; /* Ensure the container takes up at least the full height of the viewport */
+}
+
+.contact {
+  padding: 40px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5); /* Slightly transparent white background */
+  max-width: 800px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for better visibility */
+  font-family: Arial, sans-serif;
+}
+
+.contact a {
+  color: #89f7ff; /* Change the link color to aqua */
+  text-decoration: none; /* Remove underline from the link */
+  font-family: inherit; /* Ensure the link inherits the same font as the rest of the text */
+}
+
+.contact a:hover {
+  text-decoration: underline; /* Add underline on hover for better accessibility */
+}
