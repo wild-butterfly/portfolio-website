@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.008fa53c.css",
+    "main.css": "/portfolio-website/static/css/main.2b200ca1.css",
     "main.js": "/portfolio-website/static/js/main.a1052a6c.js",
     "static/js/453.aac68abc.chunk.js": "/portfolio-website/static/js/453.aac68abc.chunk.js",
     "static/media/nightforest.png": "/portfolio-website/static/media/nightforest.f3aa0d5ec3da14e2d47d.png",
     "index.html": "/portfolio-website/index.html",
-    "main.008fa53c.css.map": "/portfolio-website/static/css/main.008fa53c.css.map",
+    "main.2b200ca1.css.map": "/portfolio-website/static/css/main.2b200ca1.css.map",
     "main.a1052a6c.js.map": "/portfolio-website/static/js/main.a1052a6c.js.map",
     "453.aac68abc.chunk.js.map": "/portfolio-website/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.008fa53c.css",
+    "static/css/main.2b200ca1.css",
     "static/js/main.a1052a6c.js"
   ]
 }
